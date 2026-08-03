@@ -1,1 +1,4 @@
-print("Hola mundo")
+print("Hola Mundo")
+
+
+edad=20
